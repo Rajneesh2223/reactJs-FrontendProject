@@ -107,7 +107,7 @@ const BackgroundRemovalShowcase = () => {
               style={{ left: `${sliderPosition}%` }}
             >
               <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-8 h-8 bg-white rounded-full shadow-lg border-2 border-blue-500 flex items-center justify-center cursor-grab active:cursor-grabbing">
-                <div className="w-1 h-4 bg-blue-500 rounded-full"></div>
+                <div className="w-2 h-4 bg-blue-500 rounded-full"></div>
               </div>
             </div>
 
